@@ -1,0 +1,17 @@
+commit 7574b40e36c7f9c90176b646442be382a657b9a7
+Author: exit <alex@salazarcarlos.com>
+Date:   Thu Aug 10 06:30:20 2017 -0500
+
+    modificando a nustra carpeta 2 y la carpeta 1
+
+commit a785aa9a5eb3e82b34d8cbd4e40865d7773b7217
+Author: exit <alex@salazarcarlos.com>
+Date:   Thu Aug 10 06:28:30 2017 -0500
+
+    modificando a nustra carpeta 2
+
+commit e9a60b038d3645f93f16f4ab4f341072fa70daf4
+Author: exit <alex@salazarcarlos.com>
+Date:   Thu Aug 10 06:20:30 2017 -0500
+
+    Iniciamos
